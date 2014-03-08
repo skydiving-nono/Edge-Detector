@@ -1,9 +1,8 @@
 /*
  *Name:          Anthony Walker
- *File:          pr1.cpp
+ *File:          main.cpp
  *Instructor:    Brygg Ullmer
- *Class/Section: CS4103
- *LogonID:       CS410329
+ *Class: CS4103
  */
 
 #include <vector>
