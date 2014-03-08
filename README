@@ -1,0 +1,3 @@
+An edge detector I completed for a course in Operating Systems.
+
+The focal point of the file is to utilize multithreading to increase the speed and performance of an image processing program. In this case the image processing is edge detection of an image.
